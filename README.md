@@ -13,3 +13,4 @@ Technologies
 - Swagger
 - Maven
 - Travis CI
+- Docker
